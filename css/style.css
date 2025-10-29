@@ -21,7 +21,7 @@ body {
 }
 
 body:has(.backdrop.is-open) {
-  /*overflow: hidden;*/
+  overflow: hidden;
 }
 ul {
   list-style-type: none;
